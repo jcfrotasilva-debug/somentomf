@@ -4,6 +4,6 @@
   "devCommand": "npm run dev",
   "installCommand": "npm install",
   "framework": "nextjs",
-  "regions": ["gru1"],
+  "regions": ["gru1"]
   
 }
